@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>SettingsPageForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>BugsPage.qml</file>
+        <file>BugsTab.qml</file>
+        <file>BugsTabForm.ui.qml</file>
+        <file>BugsConfig.xml</file>
+        <file>EditBugsTreePage.qml</file>
+        <file>EditBugForm.qml</file>
+        <file>TreeDelegate.qml</file>
+        <file>styles/CPXButton.qml</file>
+        <file>styles/CPXComboBox.qml</file>
+        <file>styles/CPXTextField.qml</file>
+    </qresource>
+</RCC>

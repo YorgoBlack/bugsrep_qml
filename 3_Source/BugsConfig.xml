@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<root>
+<devicestypes>
+    <devicetype Name="тип1">
+                <symptom Name="проявление ">
+                    <defect Name="дефект">
+                        <correction Name="устранение">
+                        </correction>
+                    </defect>
+                </symptom>
+    </devicetype>
+</devicestypes>
+<camedepts>
+<camedept Name="источник1"></camedept>
+</camedepts>
+</root>
